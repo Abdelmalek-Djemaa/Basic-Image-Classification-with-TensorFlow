@@ -9,7 +9,7 @@ This project implements basic image classification using TensorFlow. We utilize 
 
 ## Terminology
 - **Keras**: A high-level API for neural networks which can run with TensorFlow, CNTK, or Theano as its backend.
-- ***TensorFlow**: An open-source platform and framework for creating, training, evaluating, and deploying machine learning models.
+- **TensorFlow**: An open-source platform and framework for creating, training, evaluating, and deploying machine learning models.
 - **Neural Network**: A computing system that works as a universal function approximator by learning correlations between given input and output data.
 - **MNIST**: A dataset of handwritten digits commonly used for training various image processing systems.
 - **matplotlib**: A plotting library for the Python programming language.
